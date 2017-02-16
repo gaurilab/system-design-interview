@@ -174,7 +174,9 @@ Reference:
 * [Efficient Computation of Frequent and Top-k Elements in Data Streams](http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf)
 * [An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows](http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf)
 * [Lossy countng algorithm](https://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/)
-* [Paper on lossy counting ans  ](https://micvog.files.wordpress.com/2015/06/approximate_freq_count_over_data_streams_vldb_2002.pdf)
+
+* [Gurmeet Singh Paper](https://micvog.files.wordpress.com/2015/06/approximate_freq_count_over_data_streams_vldb_2002.pdf)
+
 
 **Design an online multiplayer card game**   
 Reference:  
